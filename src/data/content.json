@@ -1,0 +1,32 @@
+{
+  "siteName": "Estúdio Caroá",
+  "siteDescription": "Arquitetura que floresce do nosso chão. Interiores com alma, afeto e propósito.",
+  "contact": {
+    "address": "🌵 Estúdio Caroá | Recife & à distância",
+    "phone": "+55 81 97113-6711",
+    "email": "caroaestudioarq@gmail.com",
+    "instagram": "https://www.instagram.com/estudiocaroa.arq",
+    "linkedin": "https://wa.me/5581971136711?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20sobre%20o%20Est%C3%BAdio%20Caro%C3%A1.%20Podemos%20conversar%20sobre%20um%20projeto%3F"
+  },
+  "about": {
+    "intro": "Fundado em 2025, o Estúdio Caroá nasceu da paixão por criar espaços que transformam a maneira como as pessoas vivem e trabalham. Nossa abordagem combina estética refinada com funcionalidade, sempre respeitando a identidade e os desejos de cada cliente.",
+    "pillars": [
+      {
+        "title": "Projetos",
+        "description": "Desenvolvemos projetos multidisciplinares que abrangem residências, apartamentos, espaços comerciais e incorporações. Cada projeto é único e pensado para atender às necessidades específicas de nossos clientes."
+      },
+      {
+        "title": "Obras",
+        "description": "Acompanhamos todo o processo de execução, desde a viabilização técnica até a entrega final. Nossa assessoria garante que o projeto seja executado com excelência e dentro dos padrões de qualidade estabelecidos."
+      },
+      {
+        "title": "Decoração",
+        "description": "Oferecemos curadoria completa de objetos, arte e mobiliário. Selecionamos peças que complementam e valorizam os ambientes, criando atmosferas únicas e personalizadas."
+      }
+    ]
+  },
+  "home": {
+    "heroTitle": "Arquitetura que transforma",
+    "heroSubtitle": "Criamos espaços únicos que refletem a essência de cada cliente"
+  }
+}

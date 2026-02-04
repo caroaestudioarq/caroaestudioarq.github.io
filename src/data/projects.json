@@ -1,0 +1,111 @@
+[
+  {
+    "id": "vermont",
+    "slug": "vermont",
+    "title": "Vermont",
+    "category": "interiores",
+    "subcategory": "apartamentos",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Este apartamento tem um layout tradicional. Seguindo um conceito mais clássico, o projeto traz elementos atemporais com toques contemporâneos, criando um ambiente sofisticado e acolhedor.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "casa-jardins",
+    "slug": "casa-jardins",
+    "title": "Casa Jardins",
+    "category": "interiores",
+    "subcategory": "residencias",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Residência localizada em um dos bairros mais nobres de São Paulo. O projeto prioriza a integração dos ambientes internos com o jardim, criando uma atmosfera de tranquilidade em meio à cidade.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "apartamento-itaim",
+    "slug": "apartamento-itaim",
+    "title": "Apartamento Itaim",
+    "category": "interiores",
+    "subcategory": "apartamentos",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Apartamento de 280m² com vista panorâmica para a cidade. O projeto explora materiais nobres e uma paleta de cores neutras para criar sofisticação e conforto.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "mesa-georgia",
+    "slug": "mesa-georgia",
+    "title": "Mesa Georgia",
+    "category": "design",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Peça desenhada com traços singulares que combinam funcionalidade e estética. A mesa Georgia reflete a essência do design brasileiro contemporâneo.",
+    "gallery": [
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "luminaria-aurora",
+    "slug": "luminaria-aurora",
+    "title": "Luminária Aurora",
+    "category": "design",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Luminária pendente com design exclusivo, desenvolvida em parceria com artesãos locais. Combina técnicas tradicionais com materiais modernos.",
+    "gallery": [
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "mostra-casacor",
+    "slug": "mostra-casacor",
+    "title": "Mostra CasaCor 2025",
+    "category": "mostras",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Ambiente desenvolvido para a CasaCor São Paulo 2025. O espaço explora a conexão entre natureza e arquitetura, trazendo elementos orgânicos para o interior.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "edificio-aurora",
+    "slug": "edificio-aurora",
+    "title": "Edifício Aurora",
+    "category": "incorporacao",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Empreendimento residencial de alto padrão com 20 unidades. O projeto prioriza sustentabilidade e qualidade de vida, com áreas verdes e espaços de convivência.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "escritorio-faria-lima",
+    "slug": "escritorio-faria-lima",
+    "title": "Escritório Faria Lima",
+    "category": "comercial",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Projeto corporativo para empresa de tecnologia. O ambiente foi pensado para promover colaboração e bem-estar, com espaços flexíveis e iluminação natural.",
+    "gallery": [
+      "/images/projects/placeholder.svg",
+      "/images/projects/placeholder.svg"
+    ]
+  },
+  {
+    "id": "restaurante-vila-madalena",
+    "slug": "restaurante-vila-madalena",
+    "title": "Restaurante Vila Madalena",
+    "category": "comercial",
+    "coverImage": "/images/projects/placeholder.svg",
+    "description": "Projeto de interiores para restaurante contemporâneo. O espaço combina rusticidade e sofisticação, criando uma atmosfera única para a experiência gastronômica.",
+    "gallery": [
+      "/images/projects/placeholder.svg"
+    ]
+  }
+]
