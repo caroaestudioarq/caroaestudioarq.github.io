@@ -3,19 +3,14 @@ import ProjectGrid from '@/components/ProjectGrid';
 import Link from 'next/link';
 import projects from '@/data/projects.json';
 
-// Pegar projetos em destaque (um de cada categoria principal)
-const featuredProjects = [
-  projects.find(p => p.category === 'interiores'),
-  projects.find(p => p.category === 'design'),
-  projects.find(p => p.category === 'comercial'),
-  projects.find(p => p.category === 'incorporacao'),
-].filter(Boolean);
+// Pegar projetos em destaque (marcados com featured: true)
+const featuredProjects = projects.filter((p: any) => p.featured === true);
 
 const categories = [
   { name: 'Interiores', href: '/interiores', description: 'Apartamentos e Residências' },
   { name: 'Design', href: '/design', description: 'Mobiliário e Objetos' },
   { name: 'Mostras', href: '/mostras', description: 'Exposições e Eventos' },
-  { name: 'Incorporação', href: '/incorporacao', description: 'Empreendimentos' },
+  { name: 'Arquitetônico', href: '/arquitetonico', description: 'Projetos arquitetônicos residenciais e comerciais' },
   { name: 'Comercial', href: '/comercial', description: 'Escritórios e Restaurantes' },
 ];
 

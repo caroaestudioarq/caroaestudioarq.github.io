@@ -1,30 +1,46 @@
 [
-  {
-    "id": "vermont",
-    "slug": "vermont",
-    "title": "Vermont",
-    "category": "interiores",
+    {
+    "id": "casa-yumi",
+    "slug": "casa-yumi",
+    "title": "Casa Yumi",
+    "category": "arquitetonico",
     "subcategory": "apartamentos",
-    "coverImage": "/images/projects/placeholder.svg",
-    "description": "Este apartamento tem um layout tradicional. Seguindo um conceito mais clássico, o projeto traz elementos atemporais com toques contemporâneos, criando um ambiente sofisticado e acolhedor.",
+    "coverImage": "/images/projects/casa-yumi-1.jpeg",
+    "description": "Um projeto de sítio na cidade, onde a setorização aberta, os materiais naturais e a iluminação cênica constroem uma atmosfera de acolhimento, pausa e permanência.",
     "gallery": [
-      "/images/projects/placeholder.svg",
-      "/images/projects/placeholder.svg",
-      "/images/projects/placeholder.svg"
-    ]
+      "/images/projects/casa-yumi-1.jpeg",
+      "/images/projects/casa-yumi-2.jpeg",
+      "/images/projects/casa-yumi-3.jpeg"
+    ],
+    "featured": true
   },
   {
-    "id": "casa-jardins",
-    "slug": "casa-jardins",
-    "title": "Casa Jardins",
+    "id": "cozinha-ofelia",
+    "slug": "cozinha-ofelia",
+    "title": "Cozinha Ofélia",
     "category": "interiores",
     "subcategory": "residencias",
-    "coverImage": "/images/projects/placeholder.svg",
-    "description": "Residência localizada em um dos bairros mais nobres de São Paulo. O projeto prioriza a integração dos ambientes internos com o jardim, criando uma atmosfera de tranquilidade em meio à cidade.",
+    "coverImage": "/images/projects/cozinha-ofelia-1.jpeg",
+    "description": "A cozinha Ophelia traz a harmonia perfeita entre o contemporâneo e o acolhedor. Cada detalhe foi pensado para unir praticidade, beleza e personalidade: o azul-petróleo que dá identidade ao ambiente, o vidro canelado que adiciona leveza, a iluminação quente que abraça e o mármore que assina o espaço com elegância.",
     "gallery": [
-      "/images/projects/placeholder.svg",
-      "/images/projects/placeholder.svg"
-    ]
+      "/images/projects/cozinha-ofelia-1.jpeg",
+      "/images/projects/cozinha-ofelia-2.jpeg"
+    ],
+    "featured": true
+  },
+  {
+    "id": "banheiro-liv",
+    "slug": "banheiro-liv",
+    "title": "Banheiro Liv",
+    "category": "interiores",
+    "subcategory": "apartamentos",
+    "coverImage": "/images/projects/banheiro-liv-1.jpeg",
+    "description": "Um banheiro pensado para o dia a dia com conforto e elegância para um apartamento recém entregue.",
+    "gallery": [
+      "/images/projects/banheiro-liv-1.jpeg",
+      "/images/projects/banheiro-liv-2.jpeg"
+    ],
+    "featured": true
   },
   {
     "id": "apartamento-itaim",
